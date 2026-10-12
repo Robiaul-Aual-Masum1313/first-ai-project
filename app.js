@@ -8,7 +8,7 @@ let score = 0;
 let userAnswers = []; // Array to track user choices
 let timerInterval = null;
 let timeLeft = 60;
-
+// new comment
 // SVG Circumferences
 const TIMER_CIRCUMFERENCE = 213.63; // 2 * PI * r (r=34)
 const SCORE_CIRCUMFERENCE = 427.26; // 2 * PI * r (r=68)
